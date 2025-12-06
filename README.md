@@ -1,7 +1,7 @@
 # ☀️ Sentry Node: Advanced PV Physics Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-EPL_2.0-red)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
 > **"Transitioning from raw light harvesting to knowledge-based energy management."**
